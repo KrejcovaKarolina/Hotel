@@ -1,0 +1,13 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+$primary: #e8e5e1;
+$secondary: #a1a1a1;
+$warning: #c8a27f;
+$dark: #2f3133;
+$light: #f5f4f3;
+$success: #005b3f;
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+// Then add additional custom code here

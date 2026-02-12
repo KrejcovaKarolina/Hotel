@@ -10,7 +10,7 @@ A modern web presentation for a fictional hotel. This project focuses on UI styl
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🌟 Key Features & Bootstrap Implementation
+## 🚀 Key Features & Bootstrap Implementation
 
 - **Hero Section:** Includes a booking form and a "Virtual Tour" button that triggers a **Bootstrap Modal** with an embedded video.
 - **Sticky Navigation:** A navbar that becomes fixed to the top of the viewport upon scrolling down.
@@ -19,7 +19,7 @@ A modern web presentation for a fictional hotel. This project focuses on UI styl
 - **Footer Integration:** Footer layout featuring an embedded **Google Maps** frame alongside with contact information.
 - **Fully Responsive:** Leverages the Bootstrap Grid system to ensure a perfect look on all devices.
 
-## 🚀 Installation & Local Development
+## ⚙️ Installation & Local Development
 
 1. **Install dependencies: (Required for Bootstrap via NPM)**
 
